@@ -413,6 +413,10 @@ span{
     background-color: black;
     position: relative;
 }
+html{
+    overflow: hidden;
+
+}
 /* .imgsect5{
     background-image:url("../images/fa821ff81d20bf2a33aadce004506f37.jpg");
     background-size: 250px 350px;
